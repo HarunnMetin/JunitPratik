@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cd5febc-2557-42b5-acc4-dc7e837f6686" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/JUnitFramework/C01_MavenIlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnitFramework/C01_MavenIlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnitFramework/C03_ornek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnitFramework/C04_ornek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnitFramework/C05_ornek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilites/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilites/TestBaseBeforClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.C05_ornek.saucedemoTest">
     <configuration name="C01_MavenIlkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JUnitFramework.C01_MavenIlkTest" />
       <module name="JunitPratik" />
@@ -47,8 +53,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C03_ornek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JUnitFramework.C03_ornek" />
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JUnitFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_ornek.ornekTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JUnitFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JUnitFramework" />
+      <option name="MAIN_CLASS_NAME" value="JUnitFramework.C04_ornek" />
+      <option name="METHOD_NAME" value="ornekTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_ornek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JUnitFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JUnitFramework" />
+      <option name="MAIN_CLASS_NAME" value="JUnitFramework.C05_ornek" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_ornek.saucedemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JUnitFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JUnitFramework" />
+      <option name="MAIN_CLASS_NAME" value="JUnitFramework.C05_ornek" />
+      <option name="METHOD_NAME" value="saucedemoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C05_ornek.saucedemoTest" />
+        <item itemvalue="JUnit.C05_ornek" />
+        <item itemvalue="JUnit.C04_ornek.ornekTest" />
+        <item itemvalue="Application.C03_ornek" />
         <item itemvalue="Application.C01_MavenIlkTest" />
       </list>
     </recent_temporary>
