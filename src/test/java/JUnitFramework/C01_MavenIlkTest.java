@@ -1,5 +1,6 @@
 package JUnitFramework;
 
+import Utilites.ReusableMethod;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -8,8 +9,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
+import java.util.List;
 
-public class C01_MavenIlkTest {
+public class C01_MavenIlkTest   {
 
     public static void main(String[] args) throws InterruptedException {
 
@@ -36,6 +38,18 @@ public class C01_MavenIlkTest {
         ilkUrun.click();
         //6- Onceki sayfaya donup, sayfadaki tum basliklari yazdiralim
         driver.navigate().back();
+
+        List<WebElement> tumBasliklar = driver.findElements(By.xpath("//a[@class ='a-link-normal s-navigation-item']"));
+
+        int sira = 0;
+        for (int i = 0; i < tumBasliklar.size(); i++) {
+
+            sira++;
+            System.out.println(sira +"- "+tumBasliklar.get(i).getText());
+        }
+        ReusableMethod.beklemeSuresi(5);
+
+
         Thread.sleep(3000);
         driver.close();
     }
