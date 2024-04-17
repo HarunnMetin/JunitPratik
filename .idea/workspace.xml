@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cd5febc-2557-42b5-acc4-dc7e837f6686" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnitFramework/C02_ornek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnitFramework/C06_ornek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar/C01_CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar/C02_RadioButtons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +36,54 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C02_ornek">
+  <component name="RunManager" selected="JUnit.C02_RadioButtons.radioButtonTesti">
+    <configuration name="C01_CheckBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tekrarlar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tekrarlar" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C01_CheckBox" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_CheckBox.herokuappTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tekrarlar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tekrarlar" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C01_CheckBox" />
+      <option name="METHOD_NAME" value="herokuappTesti" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_RadioButtons.radioButtonTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tekrarlar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tekrarlar" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C02_RadioButtons" />
+      <option name="METHOD_NAME" value="radioButtonTesti" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C02_ornek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
@@ -50,7 +99,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_ornek.bestBuyTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C06_ornek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
         <pattern>
@@ -59,67 +108,19 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="JUnitFramework" />
-      <option name="MAIN_CLASS_NAME" value="JUnitFramework.C02_ornek" />
-      <option name="METHOD_NAME" value="bestBuyTesti" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_ornek.ornekTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JunitPratik" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JUnitFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JUnitFramework" />
-      <option name="MAIN_CLASS_NAME" value="JUnitFramework.C04_ornek" />
-      <option name="METHOD_NAME" value="ornekTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C05_ornek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JunitPratik" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JUnitFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JUnitFramework" />
-      <option name="MAIN_CLASS_NAME" value="JUnitFramework.C05_ornek" />
+      <option name="MAIN_CLASS_NAME" value="JUnitFramework.C06_ornek" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C05_ornek.saucedemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JunitPratik" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JUnitFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JUnitFramework" />
-      <option name="MAIN_CLASS_NAME" value="JUnitFramework.C05_ornek" />
-      <option name="METHOD_NAME" value="saucedemoTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C02_RadioButtons.radioButtonTesti" />
+        <item itemvalue="JUnit.C01_CheckBox.herokuappTesti" />
+        <item itemvalue="JUnit.C01_CheckBox" />
+        <item itemvalue="JUnit.C06_ornek" />
         <item itemvalue="JUnit.C02_ornek" />
-        <item itemvalue="JUnit.C02_ornek.bestBuyTesti" />
-        <item itemvalue="JUnit.C05_ornek.saucedemoTest" />
-        <item itemvalue="JUnit.C05_ornek" />
-        <item itemvalue="JUnit.C04_ornek.ornekTest" />
       </list>
     </recent_temporary>
   </component>
