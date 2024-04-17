@@ -21,6 +21,7 @@ public class TestBase {
     }
     @After
     public void tearDown(){
+        ReusableMethod.beklemeSuresi(3);
         driver.quit();
     }
 }
