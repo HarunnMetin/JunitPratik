@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cd5febc-2557-42b5-acc4-dc7e837f6686" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar/C04_DropDownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar/C04_Soru1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar/C05_JSAlert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,39 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C04_DropDownMenu">
-    <configuration name="C02_RadioButtons.radioButtonTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JunitPratik" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tekrarlar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tekrarlar" />
-      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C02_RadioButtons" />
-      <option name="METHOD_NAME" value="radioButtonTesti" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_DropDownMenu.dropDownTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JunitPratik" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tekrarlar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tekrarlar" />
-      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C03_DropDownMenu" />
-      <option name="METHOD_NAME" value="dropDownTesti" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.C05_JSAlert.test3">
     <configuration name="C04_DropDownMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
@@ -83,7 +51,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_DropDownMenu.booksKategoriSecimi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_JSAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
         <pattern>
@@ -92,14 +60,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Tekrarlar" />
-      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C04_DropDownMenu" />
-      <option name="METHOD_NAME" value="booksKategoriSecimi" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C05_JSAlert" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_JSAlert.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tekrarlar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tekrarlar" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C05_JSAlert" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_DropDownMenu.dropDownTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_JSAlert.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +91,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Tekrarlar" />
-      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C04_DropDownMenu" />
-      <option name="METHOD_NAME" value="dropDownTesti" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C05_JSAlert" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_JSAlert.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tekrarlar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tekrarlar" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C05_JSAlert" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C05_JSAlert.test3" />
+        <item itemvalue="JUnit.C05_JSAlert" />
+        <item itemvalue="JUnit.C05_JSAlert.test2" />
+        <item itemvalue="JUnit.C05_JSAlert.test1" />
         <item itemvalue="JUnit.C04_DropDownMenu" />
-        <item itemvalue="JUnit.C03_DropDownMenu.dropDownTesti" />
-        <item itemvalue="JUnit.C04_DropDownMenu.dropDownTesti" />
-        <item itemvalue="JUnit.C04_DropDownMenu.booksKategoriSecimi" />
-        <item itemvalue="JUnit.C02_RadioButtons.radioButtonTesti" />
       </list>
     </recent_temporary>
   </component>
