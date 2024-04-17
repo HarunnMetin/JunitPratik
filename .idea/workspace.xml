@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cd5febc-2557-42b5-acc4-dc7e837f6686" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar/C03_DropDownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar/C04_DropDownMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Utilites/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utilites/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,38 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C03_DropDownMenu.dropDownTesti">
-    <configuration name="C01_CheckBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JunitPratik" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tekrarlar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tekrarlar" />
-      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C01_CheckBox" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_CheckBox.herokuappTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JunitPratik" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tekrarlar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tekrarlar" />
-      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C01_CheckBox" />
-      <option name="METHOD_NAME" value="herokuappTesti" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.C04_DropDownMenu">
     <configuration name="C02_RadioButtons.radioButtonTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
@@ -99,28 +68,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_ornek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_DropDownMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JUnitFramework.*" />
+          <option name="PATTERN" value="Tekrarlar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JUnitFramework" />
-      <option name="MAIN_CLASS_NAME" value="JUnitFramework.C06_ornek" />
+      <option name="PACKAGE_NAME" value="Tekrarlar" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C04_DropDownMenu" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_DropDownMenu.booksKategoriSecimi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tekrarlar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tekrarlar" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C04_DropDownMenu" />
+      <option name="METHOD_NAME" value="booksKategoriSecimi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_DropDownMenu.dropDownTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tekrarlar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tekrarlar" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C04_DropDownMenu" />
+      <option name="METHOD_NAME" value="dropDownTesti" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C04_DropDownMenu" />
         <item itemvalue="JUnit.C03_DropDownMenu.dropDownTesti" />
+        <item itemvalue="JUnit.C04_DropDownMenu.dropDownTesti" />
+        <item itemvalue="JUnit.C04_DropDownMenu.booksKategoriSecimi" />
         <item itemvalue="JUnit.C02_RadioButtons.radioButtonTesti" />
-        <item itemvalue="JUnit.C01_CheckBox.herokuappTesti" />
-        <item itemvalue="JUnit.C01_CheckBox" />
-        <item itemvalue="JUnit.C06_ornek" />
       </list>
     </recent_temporary>
   </component>
