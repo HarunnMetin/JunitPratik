@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cd5febc-2557-42b5-acc4-dc7e837f6686" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar3/C02_Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar3/C03_CokluPencere.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C02_Iframe.freameTesti">
+  <component name="RunManager" selected="JUnit.C03_CokluPencere.cokluPencere">
     <configuration name="C01_BasicAuthentication.basicauthentication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
@@ -83,17 +83,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_JSAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_CokluPencere.cokluPencere" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tekrarlar.*" />
+          <option name="PATTERN" value="Tekrarlar3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tekrarlar" />
-      <option name="MAIN_CLASS_NAME" value="Tekrarlar.C05_JSAlert" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Tekrarlar3" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar3.C03_CokluPencere" />
+      <option name="METHOD_NAME" value="cokluPencere" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C03_CokluPencere.cokluPencere" />
         <item itemvalue="JUnit.C02_Iframe.freameTesti" />
         <item itemvalue="JUnit.C01_Iframe.frameTesti" />
         <item itemvalue="JUnit.C01_BasicAuthentication.basicauthentication" />
         <item itemvalue="JUnit.C05_JSAlert.test3" />
-        <item itemvalue="JUnit.C05_JSAlert" />
       </list>
     </recent_temporary>
   </component>
