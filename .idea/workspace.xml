@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cd5febc-2557-42b5-acc4-dc7e837f6686" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar4/C01_ActionsClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar4/C02_DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar4/C03_MoveToElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C02_DragAndDrop.dragAndDrop">
+  <component name="RunManager" selected="JUnit.C03_MoveToElement.moveToElement">
     <configuration name="C01_ActionsClass.actionClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
@@ -68,17 +67,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_CokluPencere.cokluPencere" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_MoveToElement.moveToElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tekrarlar3.*" />
+          <option name="PATTERN" value="Tekrarlar4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tekrarlar3" />
-      <option name="MAIN_CLASS_NAME" value="Tekrarlar3.C03_CokluPencere" />
-      <option name="METHOD_NAME" value="cokluPencere" />
+      <option name="PACKAGE_NAME" value="Tekrarlar4" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar4.C03_MoveToElement" />
+      <option name="METHOD_NAME" value="moveToElement" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C03_MoveToElement.moveToElement" />
         <item itemvalue="JUnit.C02_DragAndDrop.dragAndDrop" />
         <item itemvalue="JUnit.C01_ActionsClass.actionClass" />
         <item itemvalue="JUnit.C05_Soru.cokluPencere" />
         <item itemvalue="JUnit.C04_KontrolsuzCokluWindow.cokluPencere" />
-        <item itemvalue="JUnit.C03_CokluPencere.cokluPencere" />
       </list>
     </recent_temporary>
   </component>
