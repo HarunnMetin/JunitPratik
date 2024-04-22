@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cd5febc-2557-42b5-acc4-dc7e837f6686" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar4/C06_Faker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar4/C07_Ornek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar4/C08_Ornek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tekrarlar4/C07_Ornek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar4/C07_Ornek.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,23 +36,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.C07_Ornek.test">
-    <configuration name="C03_MoveToElement.moveToElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JunitPratik" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tekrarlar4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tekrarlar4" />
-      <option name="MAIN_CLASS_NAME" value="Tekrarlar4.C03_MoveToElement" />
-      <option name="METHOD_NAME" value="moveToElement" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.C08_Ornek.test">
     <configuration name="C04_KeyboardActions.keyboardActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
@@ -118,13 +101,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C08_Ornek.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tekrarlar4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tekrarlar4" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar4.C08_Ornek" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C08_Ornek.test" />
         <item itemvalue="JUnit.C07_Ornek.test" />
         <item itemvalue="JUnit.C06_Faker.fakerTesti" />
         <item itemvalue="JUnit.C05_KeyboardActions.keyboardActions" />
         <item itemvalue="JUnit.C04_KeyboardActions.keyboardActions" />
-        <item itemvalue="JUnit.C03_MoveToElement.moveToElement" />
       </list>
     </recent_temporary>
   </component>

@@ -38,7 +38,7 @@ public class C07_Ornek extends TestBase {
 
         //6- “Click and hold" kutusuna basili tutun
         WebElement clickAndHoldButonu = driver.findElement(By.xpath("(//div[@class='col-lg-12 text-center'])[3]"));
-        actions.sendKeys(clickAndHoldButonu).clickAndHold();
+        actions.sendKeys(clickAndHoldButonu).clickAndHold().perform();
         ReusableMethod.beklemeSuresi(2);
 
         //7-“Click and hold" kutusunda cikan yaziyi yazdirin
@@ -47,7 +47,7 @@ public class C07_Ornek extends TestBase {
 
         //8- “Double click me" butonunu cift tiklayin
         WebElement ciftTiklama = driver.findElement(By.xpath("//div[@id='double-click']"));
-        actions.sendKeys(ciftTiklama).doubleClick();
+        actions.sendKeys(ciftTiklama).doubleClick().perform();
         ReusableMethod.beklemeSuresi(5);
     }
 }
