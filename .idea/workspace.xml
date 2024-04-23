@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cd5febc-2557-42b5-acc4-dc7e837f6686" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar5/C01_FileDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tekrarlar4/C09_Ornek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C01_FileDownload.fileTestleri">
+  <component name="RunManager" selected="JUnit.C09_Ornek.ornekSoruTesti">
     <configuration name="C01_FileDownload.fileTestleri" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitPratik" />
       <extension name="coverage">
@@ -47,22 +47,6 @@
       <option name="PACKAGE_NAME" value="Tekrarlar5" />
       <option name="MAIN_CLASS_NAME" value="Tekrarlar5.C01_FileDownload" />
       <option name="METHOD_NAME" value="fileTestleri" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C05_KeyboardActions.keyboardActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JunitPratik" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tekrarlar4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tekrarlar4" />
-      <option name="MAIN_CLASS_NAME" value="Tekrarlar4.C05_KeyboardActions" />
-      <option name="METHOD_NAME" value="keyboardActions" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,13 +100,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C09_Ornek.ornekSoruTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPratik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tekrarlar4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tekrarlar4" />
+      <option name="MAIN_CLASS_NAME" value="Tekrarlar4.C09_Ornek" />
+      <option name="METHOD_NAME" value="ornekSoruTesti" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C09_Ornek.ornekSoruTesti" />
         <item itemvalue="JUnit.C01_FileDownload.fileTestleri" />
         <item itemvalue="JUnit.C08_Ornek.test" />
         <item itemvalue="JUnit.C07_Ornek.test" />
         <item itemvalue="JUnit.C06_Faker.fakerTesti" />
-        <item itemvalue="JUnit.C05_KeyboardActions.keyboardActions" />
       </list>
     </recent_temporary>
   </component>
